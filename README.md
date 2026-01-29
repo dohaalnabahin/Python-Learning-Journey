@@ -10,5 +10,12 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 3:Python Syntax](UPython_Syntax.ipynb)
 
 
+[Lesson 4:Funcation ](Funcation.ipynb)
+
+
+
+
+
+
 
 

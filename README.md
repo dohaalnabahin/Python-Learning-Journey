@@ -31,6 +31,10 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 9: Fitness Tracker](Fitness_Tracker.ipynb)
 
 
+[Lesson 10: Patient Check-in](Patient_Check-in.ipynb)
+
+
+
 
 
 

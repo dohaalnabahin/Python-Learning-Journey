@@ -16,7 +16,11 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 5: OOP (Object Oriented Programming) ](OOP(Object_Oriented_Programming).ipynb)
 
 
-[Lesson 6: Bank project ](Assignment_Bank_Account.ipynb)
+[Lesson 6: How to create user class ](Assignment_create_User_calss.ipynb)
+
+
+[Lesson 7: Bank project ](Assignment_Bank_Account.ipynb)
+
 
 
 

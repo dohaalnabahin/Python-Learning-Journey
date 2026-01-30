@@ -28,6 +28,13 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 8:  Smart Coffe](SmartCoffeeShop.ipynb)
 
 
+[Lesson 9: Fitness Tracker](Fitness_Tracker.ipynb)
+
+
+
+
+
+
 
 
 

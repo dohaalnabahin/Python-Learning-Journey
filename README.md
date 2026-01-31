@@ -34,6 +34,10 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 10: Patient Check-in](Patient_Check-in.ipynb)
 
 
+[Lesson 11: Class Association](Class_Association.ipynb)
+
+
+
 
 
 

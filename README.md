@@ -43,6 +43,13 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 13: E Smart Library System](Smart_Library_System.ipynb)
 
 
+[Lesson 14: Declaring Variables and Primitive Data Types](Declaring_Variables_and_Primitive_Data_Types.ipynb)
+
+
+
+
+
+
 
 
 

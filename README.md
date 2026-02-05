@@ -52,6 +52,10 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 16: Functional Programming and OOP](Functional_Programming_and_OOP.ipynb)
 
 
+[Lesson 17: Dictionaries](Dictionaries.ipynb)
+
+
+
 
 
 

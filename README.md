@@ -61,7 +61,7 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 19: Conditionals](Conditionals.ipynb)
 
 
-[Lesson 19: Intro to Custom Functions](Intro_to_Custom_Functions.ipynb)
+[Lesson 20: Intro to Custom Functions](Intro_to_Custom_Functions.ipynb)
 
 
 

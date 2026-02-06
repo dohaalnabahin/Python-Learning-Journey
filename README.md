@@ -58,6 +58,10 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 17: For Loop](For_Loops.ipynb)
 
 
+[Lesson 17: Conditionals(Conditionals.ipynb)
+
+
+
 
 
 

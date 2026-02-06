@@ -55,10 +55,10 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 17: Dictionaries](Dictionaries.ipynb)
 
 
-[Lesson 17: For Loop](For_Loops.ipynb)
+[Lesson 18: For Loop](For_Loops.ipynb)
 
 
-[Lesson 17: Conditionals](Conditionals.ipynb)
+[Lesson 19: Conditionals](Conditionals.ipynb)
 
 
 

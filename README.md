@@ -78,6 +78,11 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 25:custom funcatuin example](custom_funcatuin_example.ipynb)
 
 
+[Lesson 26:mean 
+Median mode](mean_Median_mode.ipynb)
+
+
+
 
 
 
